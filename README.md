@@ -1,0 +1,1 @@
+This project is an app that gives you all the information for vanilla cogs in ToonTown Rewritten. You can select the cog and level to see its attacks, hitpoints, promotion point value, and hit points.
